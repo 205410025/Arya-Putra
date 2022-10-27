@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AryaPutraRahmaIsmulyono</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="magelang">Magelang</string>
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+    <string name="look_up_word" />
+</resources>

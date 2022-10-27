@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    //membuat daftar array wisata yang ada
+    <string-array name="Wisata">
+        <item>Candi</item>
+        <item>Air Terjun</item>
+        <item>Dataran Tinggi</item>
+        <item>Hutan</item>
+    </string-array>
+    //membuat daftar array nama lokasi wisata yang ada
+    <string-array name="Lokasi">
+        <item>Candi Borobudur</item>
+        <item>Candi Mendut</item>
+        <item>Candi Pawon</item>
+        <item>Candi Umbul</item>
+        <item>Candi Selogriyo</item>
+        <item>Candi Ngawen</item>
+        <item>Air Terjun Grenjengan Kembar</item>
+        <item>Air Terjun Sumuran Seloprojo</item>
+        <item>Air Terjun Sekar Langit</item>
+        <item>Air Terjun Ngesong</item>
+        <item>Air Terjun Curug Silawe</item>
+        <item>Air Terjun Telomoyo</item>
+        <item>Air Terjun Kedung Kayang</item>
+        <item>Air Terjun Sikencling</item>
+        <item>Air Terjun Goa Slandak</item>
+        <item>Air Terjun Watu Ploso</item>
+        <item>Dataran Tinggi Ketep Pass</item>
+        <item>Dataran Tinggi Andong</item>
+        <item>Dataran Tinggi Silancur Highland</item>
+        <item>Dataran Tinggi Puthuk Setumbu</item>
+        <item>Dataran Tinggi Bukit Garden Magelang</item>
+        <item>Dataran Tinggi Nepal Van Java</item>
+        <item>Dataran Tinggi Puthuk Mongkrong</item>
+        <item>Dataran Tinggi Mangli Sky View</item>
+        <item>Dataran Tinggi Bukit Kembar Gunung Payung</item>
+        <item>Hutan Pinus Kragilan</item>
+        <item>Hutan Pinus Santri Mbeling</item>
+        <item>Hutan Pinus Keditan</item>
+        <item>Hutan Pinus Warna Gerotan</item>
+    </string-array>
+</resources>
